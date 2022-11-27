@@ -6,6 +6,6 @@ the proposed parallelisation strategy, on average, GeoRobust takes only 10 secon
 
 ##
 
-### Note: This work is just accepted by the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023). Now we are preparing for the final version of this work. Our tool will be released soon via this repository.
+### Note: This work is just accepted by the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2023). We are preparing for the final version of this work. Our tool will be released soon via this repository.
 
 -- Fu Wang & Wenjie Ruan
