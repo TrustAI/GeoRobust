@@ -1,0 +1,1500 @@
+Files already downloaded and verified
+0,1,2.855124,1,1.854555,0.51
+[-0.16109039]
+Files already downloaded and verified
+20,1,4.534204,1,2.730567,0.53
+[0.15532781]
+Files already downloaded and verified
+40,0,-1.878400,0,-3.886487,0.54
+[0.49846343]
+Files already downloaded and verified
+60,1,8.214121,1,7.737373,0.54
+[-0.0662697]
+Files already downloaded and verified
+80,1,7.861019,1,6.132726,0.55
+[0.44502857]
+Files already downloaded and verified
+100,1,0.498014,1,0.476240,0.52
+[0.14170716]
+Files already downloaded and verified
+120,1,4.047019,1,2.185608,0.54
+[0.52151376]
+Files already downloaded and verified
+140,0,-1.504438,0,-4.037010,0.54
+[-0.52360925]
+Files already downloaded and verified
+160,0,-4.010329,0,-4.050203,0.53
+[-0.01126323]
+Files already downloaded and verified
+180,1,3.812303,1,0.219676,0.52
+[0.38006854]
+Files already downloaded and verified
+200,1,1.070800,1,0.719923,0.55
+[0.52360925]
+Files already downloaded and verified
+220,1,2.586850,1,0.812078,0.49
+[0.077271]
+Files already downloaded and verified
+240,1,11.521120,1,10.112806,0.51
+[0.39683242]
+Files already downloaded and verified
+260,1,3.997042,1,1.994528,0.54
+[-0.08617681]
+Files already downloaded and verified
+280,1,0.255482,0,-1.347072,0.55
+[-0.1972375]
+Files already downloaded and verified
+300,1,7.736624,1,4.903030,0.53
+[-0.45288664]
+Files already downloaded and verified
+320,1,0.397151,0,-0.684440,0.54
+[-0.52360925]
+Files already downloaded and verified
+340,1,1.444162,0,-1.254230,0.56
+[-0.48641439]
+Files already downloaded and verified
+360,1,6.800770,1,3.888349,0.54
+[-0.06574583]
+Files already downloaded and verified
+380,1,4.198092,1,1.535047,0.53
+[-0.38111629]
+Files already downloaded and verified
+400,1,9.065166,1,7.928787,0.55
+[-0.11132263]
+Files already downloaded and verified
+420,1,5.019449,1,3.390885,0.51
+[-0.52360925]
+Files already downloaded and verified
+440,1,7.841752,1,5.948356,0.54
+[-0.47750858]
+Files already downloaded and verified
+460,1,5.063252,1,3.503915,0.53
+[0.52360925]
+Files already downloaded and verified
+480,1,0.247379,0,-1.442893,0.52
+[0.41097694]
+Files already downloaded and verified
+500,1,1.754977,0,-0.838714,0.49
+[-0.43507502]
+Files already downloaded and verified
+520,1,4.185949,1,2.468357,0.48
+[-0.52360925]
+Files already downloaded and verified
+540,1,5.692812,1,4.211377,0.45
+[0.15270845]
+Files already downloaded and verified
+560,1,6.588916,1,5.308124,0.45
+[0.06365035]
+Files already downloaded and verified
+580,1,4.035296,1,3.572515,0.45
+[0.05055357]
+Files already downloaded and verified
+600,0,-1.393333,0,-1.382582,0.45
+[0.00026194]
+Files already downloaded and verified
+620,1,7.102560,1,4.953460,0.44
+[-0.52360925]
+Files already downloaded and verified
+640,0,-0.313108,0,-1.737356,0.44
+[0.07674713]
+Files already downloaded and verified
+660,1,5.022389,1,2.165890,0.44
+[-0.22185945]
+Files already downloaded and verified
+680,1,0.147406,0,-1.838959,0.44
+[-0.37692532]
+Files already downloaded and verified
+700,1,5.851122,1,4.567567,0.44
+[0.0736039]
+Files already downloaded and verified
+720,1,2.494766,1,0.471357,0.46
+[-0.07203229]
+Files already downloaded and verified
+740,0,-3.604738,0,-4.689300,0.47
+[-0.21976396]
+Files already downloaded and verified
+760,1,1.081656,1,0.859152,0.46
+[-0.02959872]
+Files already downloaded and verified
+780,1,5.712668,1,4.109688,0.47
+[-0.52360925]
+Files already downloaded and verified
+800,1,12.549792,1,10.808178,0.45
+[0.52360925]
+Files already downloaded and verified
+820,1,2.328026,0,-0.255886,0.44
+[-0.52360925]
+Files already downloaded and verified
+840,1,7.442959,1,7.442602,0.46
+[0.00026194]
+Files already downloaded and verified
+860,1,1.747391,0,-0.073510,0.45
+[-0.23967107]
+Files already downloaded and verified
+880,1,9.065061,1,7.411878,0.46
+[0.44869567]
+Files already downloaded and verified
+900,1,0.355589,1,0.357741,0.45
+[0.00026194]
+Files already downloaded and verified
+920,0,-2.342644,0,-4.067676,0.45
+[-0.21138202]
+Files already downloaded and verified
+940,1,9.057734,1,7.035151,0.45
+[-0.52360925]
+Files already downloaded and verified
+960,1,4.147585,1,1.107352,0.44
+[-0.36906725]
+Files already downloaded and verified
+980,1,6.956019,1,5.305659,0.45
+[-0.48693826]
+Files already downloaded and verified
+1000,1,7.269168,1,6.204148,0.46
+[-0.52360925]
+Files already downloaded and verified
+1020,1,4.623631,1,3.641868,0.44
+[0.07465164]
+Files already downloaded and verified
+1040,0,-0.078163,0,-1.248449,0.45
+[0.52360925]
+Files already downloaded and verified
+1060,1,8.147663,1,6.594482,0.46
+[-0.0809381]
+Files already downloaded and verified
+1080,1,3.486270,1,2.490601,0.45
+[-0.07831874]
+Files already downloaded and verified
+1100,1,1.782143,1,0.279684,0.46
+[0.50841698]
+Files already downloaded and verified
+1120,0,-1.654083,0,-1.634592,0.45
+[0.00026194]
+Files already downloaded and verified
+1140,1,6.099698,1,2.850704,0.44
+[0.08408132]
+Files already downloaded and verified
+1160,1,7.620958,1,6.954684,0.46
+[0.14118328]
+Files already downloaded and verified
+1180,1,2.139762,1,2.075828,0.45
+[0.52360925]
+Files already downloaded and verified
+1200,1,4.618249,1,3.501168,0.45
+[0.22605042]
+Files already downloaded and verified
+1220,0,-3.819726,0,-5.740655,0.45
+[-0.06050712]
+Files already downloaded and verified
+1240,1,2.149372,1,0.529776,0.47
+[-0.50213053]
+Files already downloaded and verified
+1260,1,5.941187,1,3.268982,0.46
+[0.52360925]
+Files already downloaded and verified
+1280,1,1.007592,1,0.690703,0.47
+[0.39421307]
+Files already downloaded and verified
+1300,0,-0.440619,0,-2.503683,0.46
+[0.52360925]
+Files already downloaded and verified
+1320,1,9.921906,1,7.964503,0.46
+[0.52360925]
+Files already downloaded and verified
+1340,1,6.764871,1,4.350220,0.46
+[-0.07517551]
+Files already downloaded and verified
+1360,1,2.535038,1,1.406115,0.45
+[-0.23862332]
+Files already downloaded and verified
+1380,1,3.703889,0,-0.352358,0.46
+[0.51103634]
+Files already downloaded and verified
+1400,1,1.458086,0,-0.196803,0.46
+[-0.20928654]
+Files already downloaded and verified
+1420,0,-1.496728,0,-4.890065,0.47
+[-0.34130208]
+Files already downloaded and verified
+1440,1,2.355774,0,-0.194781,0.44
+[-0.52360925]
+Files already downloaded and verified
+1460,1,6.162952,1,4.881623,0.44
+[-0.06312648]
+Files already downloaded and verified
+1480,0,-0.939240,0,-1.328232,0.46
+[0.25329172]
+Files already downloaded and verified
+1500,1,5.588671,1,5.145931,0.45
+[0.26167366]
+Files already downloaded and verified
+1520,1,7.639108,1,5.986849,0.45
+[0.04426711]
+Files already downloaded and verified
+1540,1,9.303751,1,9.311134,0.45
+[-0.00026194]
+Files already downloaded and verified
+1560,1,5.697824,1,3.302517,0.44
+[0.43036018]
+Files already downloaded and verified
+1580,0,-3.331579,0,-4.450750,0.45
+[-0.06836519]
+Files already downloaded and verified
+1600,0,-0.331887,0,-0.620958,0.45
+[-0.09036778]
+Files already downloaded and verified
+1620,0,-0.631878,0,-1.574686,0.51
+[-0.52360925]
+Files already downloaded and verified
+1640,1,2.842114,1,2.060384,0.45
+[-0.05945938]
+Files already downloaded and verified
+1660,1,2.537911,0,-0.196151,0.45
+[0.50684537]
+Files already downloaded and verified
+1680,1,5.036078,1,0.817731,0.46
+[0.52360925]
+Files already downloaded and verified
+1700,1,1.046284,0,-0.235399,0.45
+[-0.24019494]
+Files already downloaded and verified
+1720,1,4.409717,0,-0.487503,0.47
+[0.04793421]
+Files already downloaded and verified
+1740,1,9.656181,1,6.510092,0.47
+[0.51627505]
+Files already downloaded and verified
+1760,1,6.745408,1,2.787838,0.49
+[-0.30201174]
+Files already downloaded and verified
+1780,1,9.097119,1,8.260236,0.45
+[0.52360925]
+Files already downloaded and verified
+1800,1,4.776714,1,3.237510,0.54
+[0.05317293]
+Files already downloaded and verified
+1820,1,3.959965,1,0.189107,0.45
+[-0.52360925]
+Files already downloaded and verified
+1840,0,-4.188286,0,-6.125181,0.55
+[-0.50108279]
+Files already downloaded and verified
+1860,0,-0.781935,0,-0.773507,0.46
+[-0.00026194]
+Files already downloaded and verified
+1880,1,10.871603,1,8.978312,0.45
+[0.52360925]
+Files already downloaded and verified
+1900,1,11.544815,1,11.311011,0.50
+[-0.31144142]
+Files already downloaded and verified
+1920,1,9.743924,1,6.138160,0.47
+[0.33030078]
+Files already downloaded and verified
+1940,0,-1.768581,0,-1.932698,0.46
+[0.02959872]
+Files already downloaded and verified
+1960,0,-0.117345,0,-2.158375,0.47
+[-0.52360925]
+Files already downloaded and verified
+1980,1,6.911104,1,5.758142,0.56
+[-0.4827473]
+Files already downloaded and verified
+2000,1,4.200299,1,1.104018,0.47
+[0.44869567]
+Files already downloaded and verified
+2020,1,6.051584,1,5.174488,0.50
+[-0.36173305]
+Files already downloaded and verified
+2040,1,9.530435,1,7.926567,0.49
+[0.30305948]
+Files already downloaded and verified
+2060,1,0.850343,0,-0.688768,0.52
+[-0.19618976]
+Files already downloaded and verified
+2080,1,2.333252,0,-0.133059,0.45
+[0.52098989]
+Files already downloaded and verified
+2100,1,3.435952,1,2.611921,0.47
+[0.52360925]
+Files already downloaded and verified
+2120,1,1.957794,0,-0.109935,0.45
+[0.31196529]
+Files already downloaded and verified
+2140,1,7.608731,1,5.592920,0.47
+[-0.146422]
+Files already downloaded and verified
+2160,1,8.320176,1,4.280216,0.45
+[0.46545955]
+Files already downloaded and verified
+2180,1,3.105168,1,2.303988,0.46
+[-0.52360925]
+Files already downloaded and verified
+2200,1,2.131670,1,1.788983,0.57
+[-0.52308538]
+Files already downloaded and verified
+2220,1,9.206164,1,7.727980,0.45
+[0.52360925]
+Files already downloaded and verified
+2240,0,-1.313516,0,-1.549423,0.46
+[0.4445047]
+Files already downloaded and verified
+2260,1,3.677246,1,2.172331,0.45
+[0.35492273]
+Files already downloaded and verified
+2280,1,1.751709,1,0.182149,0.51
+[0.52360925]
+Files already downloaded and verified
+2300,0,-1.325197,0,-1.309856,0.45
+[0.00026194]
+Files already downloaded and verified
+2320,0,-0.269068,0,-1.370542,0.50
+[0.35282724]
+Files already downloaded and verified
+2340,1,10.290697,1,7.159406,0.46
+[0.52360925]
+Files already downloaded and verified
+2360,1,0.057442,0,-0.321609,0.47
+[0.52360925]
+Files already downloaded and verified
+2380,1,10.103004,1,10.116837,0.45
+[-0.00026194]
+Files already downloaded and verified
+2400,1,6.185342,1,4.820616,0.52
+[-0.18885556]
+Files already downloaded and verified
+2420,0,-0.571323,0,-1.766108,0.46
+[-0.07779487]
+Files already downloaded and verified
+2440,1,1.296840,1,0.256749,0.45
+[-0.12494328]
+Files already downloaded and verified
+2460,1,4.817988,1,1.650100,0.48
+[0.06312648]
+Files already downloaded and verified
+2480,1,8.324297,1,7.297449,0.55
+[0.31615626]
+Files already downloaded and verified
+2500,0,-0.204351,0,-0.198493,0.47
+[0.00026194]
+Files already downloaded and verified
+2520,1,0.352515,0,-1.404945,0.47
+[0.15166071]
+Files already downloaded and verified
+2540,1,3.639752,1,2.165328,0.46
+[0.52308538]
+Files already downloaded and verified
+2560,1,3.296800,1,0.893513,0.43
+[0.05317293]
+Files already downloaded and verified
+2580,0,-4.050807,0,-4.352605,0.48
+[0.02802711]
+Files already downloaded and verified
+2600,1,5.897850,1,5.907271,0.45
+[0.00026194]
+Files already downloaded and verified
+2620,1,9.621724,1,8.029406,0.46
+[0.14013554]
+Files already downloaded and verified
+2640,1,6.221544,1,4.338657,0.45
+[-0.08408132]
+Files already downloaded and verified
+2660,1,1.013624,1,1.011911,0.46
+[-0.00026194]
+Files already downloaded and verified
+2680,1,5.762378,1,5.056528,0.46
+[0.14485038]
+Files already downloaded and verified
+2700,1,1.231503,0,-1.021828,0.59
+[-0.51941828]
+Files already downloaded and verified
+2720,1,4.422730,1,3.130290,0.47
+[-0.52360925]
+Files already downloaded and verified
+2740,1,5.998051,1,1.316990,0.45
+[-0.52360925]
+Files already downloaded and verified
+2760,1,6.266659,1,4.898468,0.51
+[-0.49689182]
+Files already downloaded and verified
+2780,1,10.226204,1,8.656900,0.55
+[-0.2862956]
+Files already downloaded and verified
+2800,1,5.703991,1,4.493127,0.43
+[-0.08722455]
+Files already downloaded and verified
+2820,1,8.237069,1,5.720761,0.47
+[0.05684002]
+Files already downloaded and verified
+2840,1,2.287064,1,2.169714,0.58
+[0.27162721]
+Files already downloaded and verified
+2860,1,1.504678,1,0.189332,0.51
+[-0.05264905]
+Files already downloaded and verified
+2880,1,8.770926,1,6.226986,0.47
+[-0.52360925]
+Files already downloaded and verified
+2900,0,-1.460225,0,-2.461566,0.47
+[-0.50003504]
+Files already downloaded and verified
+2920,1,3.971312,1,0.145614,0.47
+[0.39159371]
+Files already downloaded and verified
+2940,0,-0.980051,0,-3.390667,0.49
+[0.51313182]
+Files already downloaded and verified
+2960,0,-5.707379,0,-5.700661,0.46
+[-0.00026194]
+Files already downloaded and verified
+2980,1,8.687876,1,7.013183,0.45
+[0.44345696]
+Files already downloaded and verified
+3000,1,4.990557,1,2.902196,0.47
+[0.52360925]
+Files already downloaded and verified
+3020,1,5.303925,1,3.733373,0.45
+[0.51103634]
+Files already downloaded and verified
+3040,1,10.185575,1,10.188694,0.49
+[0.00026194]
+Files already downloaded and verified
+3060,1,6.698461,1,4.517523,0.47
+[0.23600397]
+Files already downloaded and verified
+3080,1,3.410853,1,1.584561,0.48
+[0.47488923]
+Files already downloaded and verified
+3100,1,2.115002,1,1.817205,0.46
+[-0.13280134]
+Files already downloaded and verified
+3120,1,1.575339,1,0.135989,0.50
+[0.52203763]
+Files already downloaded and verified
+3140,1,3.597270,1,3.288311,0.48
+[-0.12389553]
+Files already downloaded and verified
+3160,0,-1.456621,0,-5.347391,0.47
+[0.51575118]
+Files already downloaded and verified
+3180,1,0.764616,1,0.773644,0.45
+[0.00026194]
+Files already downloaded and verified
+3200,1,4.847491,1,3.465919,0.61
+[-0.47698471]
+Files already downloaded and verified
+3220,0,-0.335644,0,-2.193872,0.45
+[-0.46074471]
+Files already downloaded and verified
+3240,0,-0.092520,0,-2.224921,0.45
+[-0.51522731]
+Files already downloaded and verified
+3260,1,8.690159,1,8.202739,0.47
+[-0.52360925]
+Files already downloaded and verified
+3280,1,2.354503,1,0.403684,0.45
+[-0.52256151]
+Files already downloaded and verified
+3300,1,8.375337,1,4.614453,0.57
+[0.49322472]
+Files already downloaded and verified
+3320,0,-2.955268,0,-4.715213,0.46
+[-0.34339756]
+Files already downloaded and verified
+3340,1,4.836171,1,2.877874,0.47
+[0.21085815]
+Files already downloaded and verified
+3360,1,4.053819,1,3.301747,0.47
+[-0.19304653]
+Files already downloaded and verified
+3380,1,9.360057,1,9.363060,0.45
+[0.00026194]
+Files already downloaded and verified
+3400,0,-3.678690,0,-3.991966,0.61
+[-0.06574583]
+Files already downloaded and verified
+3420,0,-1.527402,0,-2.123289,0.51
+[0.24543365]
+Files already downloaded and verified
+3440,0,-1.023497,0,-2.529646,0.45
+[-0.42616921]
+Files already downloaded and verified
+3460,1,12.314857,1,11.199429,0.48
+[-0.52203763]
+Files already downloaded and verified
+3480,1,1.420784,1,0.654321,0.46
+[-0.15218458]
+Files already downloaded and verified
+3500,0,-3.646538,0,-3.676410,0.46
+[-0.0662697]
+Files already downloaded and verified
+3520,1,7.927997,1,6.567388,0.47
+[0.52308538]
+Files already downloaded and verified
+3540,1,8.797994,1,4.525722,0.45
+[0.19409427]
+Files already downloaded and verified
+3560,0,-0.548402,0,-0.711503,0.45
+[0.26219753]
+Files already downloaded and verified
+3580,1,5.438828,1,1.144303,0.62
+[-0.51732279]
+Files already downloaded and verified
+3600,0,-5.368195,0,-7.511221,0.45
+[0.14118328]
+Files already downloaded and verified
+3620,1,5.322518,1,4.292089,0.45
+[0.52360925]
+Files already downloaded and verified
+3640,1,4.674744,1,4.680282,0.46
+[-0.00026194]
+Files already downloaded and verified
+3660,1,6.492775,1,2.772339,0.46
+[0.4827473]
+Files already downloaded and verified
+3680,1,0.171465,0,-3.488699,0.60
+[-0.36697176]
+Files already downloaded and verified
+3700,1,2.815259,1,2.632605,0.47
+[-0.39526081]
+Files already downloaded and verified
+3720,0,-0.275554,0,-1.966455,0.48
+[0.41464404]
+Files already downloaded and verified
+3740,1,9.135262,1,6.913174,0.46
+[0.2244788]
+Files already downloaded and verified
+3760,1,8.029254,1,6.905652,0.58
+[0.21452525]
+Files already downloaded and verified
+3780,1,4.357300,1,2.835353,0.46
+[0.52360925]
+Files already downloaded and verified
+3800,1,6.601309,1,4.809501,0.45
+[0.09351101]
+Files already downloaded and verified
+3820,1,7.018207,0,-2.203974,0.45
+[-0.38373564]
+Files already downloaded and verified
+3840,0,-1.042316,0,-2.552837,0.47
+[0.22971751]
+Files already downloaded and verified
+3860,1,9.136843,1,9.140471,0.54
+[-0.00026194]
+Files already downloaded and verified
+3880,1,5.764557,1,2.543588,0.46
+[-0.51889441]
+Files already downloaded and verified
+3900,1,0.629622,0,-1.297409,0.47
+[0.24176655]
+Files already downloaded and verified
+3920,0,-1.372669,0,-2.855700,0.46
+[-0.20247621]
+Files already downloaded and verified
+3940,1,0.942616,0,-3.022162,0.60
+[0.05684002]
+Files already downloaded and verified
+3960,1,6.048693,1,3.508410,0.45
+[0.47646084]
+Files already downloaded and verified
+3980,0,-1.632031,0,-1.748674,0.45
+[0.27686592]
+Files already downloaded and verified
+4000,0,-6.751766,0,-6.743815,0.47
+[0.00026194]
+Files already downloaded and verified
+4020,1,5.168265,1,5.146072,0.62
+[-0.49479633]
+Files already downloaded and verified
+4040,1,6.721313,1,5.189059,0.46
+[0.52360925]
+Files already downloaded and verified
+4060,1,1.621318,0,-0.493818,0.46
+[-0.14694587]
+Files already downloaded and verified
+4080,1,11.928197,1,9.873615,0.46
+[0.46755503]
+Files already downloaded and verified
+4100,1,7.374885,1,7.381037,0.45
+[0.00026194]
+Files already downloaded and verified
+4120,1,7.178439,1,6.121730,0.63
+[-0.08617681]
+Files already downloaded and verified
+4140,0,-1.884306,0,-2.780404,0.47
+[-0.12651489]
+Files already downloaded and verified
+4160,1,3.773431,1,2.955704,0.46
+[0.20195234]
+Files already downloaded and verified
+4180,1,5.897654,0,-0.569711,0.47
+[0.52360925]
+Files already downloaded and verified
+4200,1,2.377441,1,0.645361,0.51
+[-0.52360925]
+Files already downloaded and verified
+4220,0,-6.171762,0,-7.567475,0.46
+[-0.1155136]
+Files already downloaded and verified
+4240,1,1.985642,0,-0.278829,0.45
+[0.21138202]
+Files already downloaded and verified
+4260,1,11.016032,1,9.183384,0.47
+[-0.38530726]
+Files already downloaded and verified
+4280,1,2.268578,0,-1.348930,0.45
+[-0.52360925]
+Files already downloaded and verified
+4300,1,11.190555,1,8.597866,0.47
+[-0.52360925]
+Files already downloaded and verified
+4320,1,0.938993,0,-2.280294,0.46
+[0.05736389]
+Files already downloaded and verified
+4340,1,9.336424,1,7.664288,0.45
+[0.52151376]
+Files already downloaded and verified
+4360,1,5.016173,1,3.957528,0.45
+[0.52360925]
+Files already downloaded and verified
+4380,1,0.796131,0,-0.068491,0.45
+[-0.52360925]
+Files already downloaded and verified
+4400,1,0.411834,1,0.324266,0.65
+[0.08565294]
+Files already downloaded and verified
+4420,1,6.436130,1,2.938106,0.45
+[-0.52360925]
+Files already downloaded and verified
+4440,1,8.940739,1,6.499982,0.47
+[-0.52360925]
+Files already downloaded and verified
+4460,1,12.516064,1,8.184791,0.48
+[-0.51208408]
+Files already downloaded and verified
+4480,1,7.036752,1,6.295223,0.45
+[-0.52360925]
+Files already downloaded and verified
+4500,1,3.913819,1,3.491529,0.50
+[-0.09403488]
+Files already downloaded and verified
+4520,1,3.452040,1,2.957537,0.47
+[0.52360925]
+Files already downloaded and verified
+4540,1,6.463769,1,5.046918,0.45
+[0.08722455]
+Files already downloaded and verified
+4560,1,10.326965,1,7.819371,0.45
+[0.52256151]
+Files already downloaded and verified
+4580,1,5.220743,1,3.132937,0.67
+[0.08198584]
+Files already downloaded and verified
+4600,1,2.878718,0,-0.625994,0.44
+[-0.33606336]
+Files already downloaded and verified
+4620,1,3.695117,1,1.219245,0.46
+[0.38111629]
+Files already downloaded and verified
+4640,1,7.998506,1,6.202097,0.45
+[-0.52360925]
+Files already downloaded and verified
+4660,1,0.194139,0,-0.898809,0.47
+[0.02855098]
+Files already downloaded and verified
+4680,1,10.535066,1,9.090574,0.48
+[0.4135963]
+Files already downloaded and verified
+4700,1,1.808916,0,-2.940739,0.46
+[-0.52360925]
+Files already downloaded and verified
+4720,1,4.597334,1,0.782317,0.46
+[0.52360925]
+Files already downloaded and verified
+4740,0,-1.514959,0,-2.528521,0.46
+[-0.08984391]
+Files already downloaded and verified
+4760,0,-1.085297,0,-1.082988,0.50
+[0.00026194]
+Files already downloaded and verified
+4780,1,2.741932,1,1.131771,0.45
+[-0.10503617]
+Files already downloaded and verified
+4800,1,10.330853,1,9.750528,0.47
+[-0.52360925]
+Files already downloaded and verified
+4820,1,0.788265,1,0.347757,0.46
+[0.1773304]
+Files already downloaded and verified
+4840,1,10.215075,1,6.685645,0.46
+[-0.47488923]
+Files already downloaded and verified
+4860,1,2.232444,1,1.606315,0.57
+[-0.06103099]
+Files already downloaded and verified
+4880,1,4.058622,0,-2.169662,0.47
+[0.42721695]
+Files already downloaded and verified
+4900,1,2.275172,1,2.263285,0.47
+[0.10294069]
+Files already downloaded and verified
+4920,1,8.351154,1,4.869705,0.48
+[0.52360925]
+Files already downloaded and verified
+4940,1,4.474996,1,1.499335,0.47
+[-0.05212518]
+Files already downloaded and verified
+4960,1,3.759467,1,1.476266,0.48
+[-0.51522731]
+Files already downloaded and verified
+4980,1,4.263541,1,2.771512,0.46
+[0.52360925]
+Files already downloaded and verified
+5000,1,9.492138,1,8.828570,0.47
+[-0.12703876]
+Files already downloaded and verified
+5020,1,11.349670,1,7.764478,0.50
+[0.51156021]
+Files already downloaded and verified
+5040,1,0.691593,1,0.446499,0.46
+[0.10765553]
+Files already downloaded and verified
+5060,0,-3.087806,0,-3.750972,0.46
+[-0.05526841]
+Files already downloaded and verified
+5080,1,3.487060,1,3.484672,0.46
+[0.00130968]
+Files already downloaded and verified
+5100,1,3.760392,1,3.374949,0.56
+[-0.04741034]
+Files already downloaded and verified
+5120,1,4.226232,1,3.112029,0.45
+[0.52308538]
+Files already downloaded and verified
+5140,1,8.184047,1,5.862774,0.47
+[-0.39526081]
+Files already downloaded and verified
+5160,1,6.771978,1,4.468848,0.45
+[-0.05160131]
+Files already downloaded and verified
+5180,1,3.443643,1,1.255302,0.48
+[-0.10870327]
+Files already downloaded and verified
+5200,1,2.742443,1,2.278560,0.54
+[0.52360925]
+Files already downloaded and verified
+5220,1,5.859937,1,2.017536,0.47
+[0.24019494]
+Files already downloaded and verified
+5240,1,1.604819,0,-1.832961,0.48
+[0.52360925]
+Files already downloaded and verified
+5260,1,5.158098,1,4.680683,0.45
+[0.17052007]
+Files already downloaded and verified
+5280,1,0.861444,0,-2.537912,0.65
+[-0.44136147]
+Files already downloaded and verified
+5300,1,6.697495,1,4.940350,0.46
+[-0.22605042]
+Files already downloaded and verified
+5320,0,-2.929729,0,-4.031385,0.45
+[0.48641439]
+Files already downloaded and verified
+5340,0,-0.710798,0,-1.677449,0.46
+[0.46545955]
+Files already downloaded and verified
+5360,1,0.922993,1,0.816858,0.56
+[-0.31825174]
+Files already downloaded and verified
+5380,1,6.122432,1,4.305775,0.45
+[-0.2899627]
+Files already downloaded and verified
+5400,1,8.097099,1,7.875425,0.45
+[-0.12337166]
+Files already downloaded and verified
+5420,1,4.817561,1,4.281857,0.46
+[0.07884261]
+Files already downloaded and verified
+5440,1,9.786752,1,8.597900,0.47
+[-0.1972375]
+Files already downloaded and verified
+5460,1,2.607921,0,-0.629774,0.63
+[-0.44031373]
+Files already downloaded and verified
+5480,1,6.232354,1,5.988018,0.45
+[-0.20195234]
+Files already downloaded and verified
+5500,1,2.395184,1,1.116120,0.46
+[-0.39473694]
+Files already downloaded and verified
+5520,1,1.539838,0,-0.020080,0.47
+[0.52360925]
+Files already downloaded and verified
+5540,1,3.734561,1,1.411539,0.46
+[-0.52360925]
+Files already downloaded and verified
+5560,1,0.851852,1,0.394775,0.45
+[-0.11394198]
+Files already downloaded and verified
+5580,1,0.558190,0,-1.209990,0.44
+[0.40102339]
+Files already downloaded and verified
+5600,0,-0.403507,0,-2.179574,0.46
+[-0.04426711]
+Files already downloaded and verified
+5620,1,0.460101,0,-0.006874,0.46
+[0.07412777]
+Files already downloaded and verified
+5640,0,-1.666046,0,-1.997710,0.45
+[-0.35335111]
+Files already downloaded and verified
+5660,1,3.677379,1,0.472427,0.50
+[-0.43402728]
+Files already downloaded and verified
+5680,1,1.956863,1,0.264168,0.45
+[-0.47017439]
+Files already downloaded and verified
+5700,1,0.085613,1,0.087505,0.47
+[-0.00026194]
+Files already downloaded and verified
+5720,1,7.540345,1,7.551312,0.46
+[0.00026194]
+Files already downloaded and verified
+5740,0,-0.619152,0,-0.629146,0.47
+[0.06417422]
+Files already downloaded and verified
+5760,1,1.727193,0,-1.929950,0.46
+[0.37430596]
+Files already downloaded and verified
+5780,1,12.053691,1,10.903960,0.47
+[-0.52360925]
+Files already downloaded and verified
+5800,1,2.064013,0,-0.320441,0.46
+[0.3282053]
+Files already downloaded and verified
+5820,0,-0.137014,0,-0.119677,0.45
+[0.00026194]
+Files already downloaded and verified
+5840,1,2.340611,1,0.085179,0.58
+[0.52360925]
+Files already downloaded and verified
+5860,1,2.583761,1,1.365024,0.46
+[0.04164776]
+Files already downloaded and verified
+5880,1,8.067400,1,6.496773,0.45
+[0.10660779]
+Files already downloaded and verified
+5900,0,-5.154036,0,-5.146575,0.47
+[0.00026194]
+Files already downloaded and verified
+5920,1,7.599935,1,5.735977,0.60
+[-0.51994215]
+Files already downloaded and verified
+5940,0,-3.044322,0,-4.471852,0.45
+[-0.05212518]
+Files already downloaded and verified
+5960,0,-2.281508,0,-3.594462,0.47
+[-0.38373564]
+Files already downloaded and verified
+5980,1,9.071455,1,7.416465,0.45
+[0.18937943]
+Files already downloaded and verified
+6000,1,5.059587,1,1.709513,0.45
+[0.162662]
+Files already downloaded and verified
+6020,1,2.983300,1,0.851656,0.62
+[-0.37587757]
+Files already downloaded and verified
+6040,0,-0.392556,0,-2.482388,0.46
+[-0.49008149]
+Files already downloaded and verified
+6060,1,0.588869,0,-0.068964,0.46
+[0.43926599]
+Files already downloaded and verified
+6080,1,4.073112,1,1.979271,0.46
+[0.52360925]
+Files already downloaded and verified
+6100,1,7.169020,1,5.800675,0.51
+[-0.09246326]
+Files already downloaded and verified
+6120,1,3.332750,1,2.025388,0.46
+[0.08408132]
+Files already downloaded and verified
+6140,1,10.820207,1,9.341717,0.47
+[-0.52360925]
+Files already downloaded and verified
+6160,1,3.625585,1,3.634649,0.46
+[-0.00026194]
+Files already downloaded and verified
+6180,1,4.314784,1,0.844949,0.46
+[0.43507502]
+Files already downloaded and verified
+6200,1,1.560244,0,-1.312591,0.46
+[-0.43193179]
+Files already downloaded and verified
+6220,1,3.327583,1,1.584766,0.48
+[-0.52360925]
+Files already downloaded and verified
+6240,1,3.520462,1,2.783103,0.46
+[0.52360925]
+Files already downloaded and verified
+6260,0,-0.259852,0,-1.611564,0.48
+[0.52360925]
+Files already downloaded and verified
+6280,0,-4.225701,0,-6.582800,0.45
+[-0.05841164]
+Files already downloaded and verified
+6300,1,4.427020,1,3.367002,0.50
+[0.52360925]
+Files already downloaded and verified
+6320,1,5.754783,1,5.258642,0.46
+[0.44555244]
+Files already downloaded and verified
+6340,1,2.792930,1,1.550794,0.45
+[0.13280134]
+Files already downloaded and verified
+6360,1,7.221272,1,4.033509,0.47
+[-0.52360925]
+Files already downloaded and verified
+6380,0,-2.132856,0,-2.131190,0.45
+[0.00026194]
+Files already downloaded and verified
+6400,1,4.454489,1,2.583381,0.61
+[0.44712405]
+Files already downloaded and verified
+6420,1,0.170658,1,0.178406,0.48
+[-0.04321937]
+Files already downloaded and verified
+6440,1,0.447569,0,-0.238218,0.48
+[-0.52360925]
+Files already downloaded and verified
+6460,1,3.498451,1,3.207904,0.45
+[0.15847103]
+Files already downloaded and verified
+6480,1,1.401367,1,1.188998,0.56
+[-0.07098455]
+Files already downloaded and verified
+6500,1,1.233833,1,0.101216,0.45
+[0.52151376]
+Files already downloaded and verified
+6520,1,0.699625,0,-1.140321,0.47
+[-0.0662697]
+Files already downloaded and verified
+6540,1,5.221535,1,2.434572,0.45
+[0.52098989]
+Files already downloaded and verified
+6560,0,-0.559697,0,-2.491616,0.65
+[0.48589052]
+Files already downloaded and verified
+6580,1,3.314735,1,1.005402,0.48
+[0.51784666]
+Files already downloaded and verified
+6600,1,7.304922,1,6.344573,0.46
+[0.45288664]
+Files already downloaded and verified
+6620,1,4.837349,1,4.844703,0.46
+[0.00026194]
+Files already downloaded and verified
+6640,0,-2.163525,0,-2.252767,0.63
+[-0.00864387]
+Files already downloaded and verified
+6660,1,7.827669,1,4.379812,0.45
+[0.29886851]
+Files already downloaded and verified
+6680,0,-0.317900,0,-1.434336,0.46
+[-0.51994215]
+Files already downloaded and verified
+6700,0,-0.924521,0,-1.541781,0.47
+[0.52360925]
+Files already downloaded and verified
+6720,1,7.750282,1,5.871579,0.46
+[-0.51679892]
+Files already downloaded and verified
+6740,1,6.315580,1,4.973719,0.49
+[0.52360925]
+Files already downloaded and verified
+6760,1,7.220691,1,5.380616,0.46
+[-0.49584407]
+Files already downloaded and verified
+6780,1,7.289554,1,6.463082,0.45
+[-0.0463626]
+Files already downloaded and verified
+6800,0,-0.767977,0,-2.204028,0.45
+[-0.52360925]
+Files already downloaded and verified
+6820,1,7.619105,1,4.927788,0.45
+[0.07831874]
+Files already downloaded and verified
+6840,1,9.323971,1,4.845582,0.45
+[-0.52360925]
+Files already downloaded and verified
+6860,1,4.350589,1,2.670430,0.45
+[0.42459759]
+Files already downloaded and verified
+6880,1,4.317275,1,2.697021,0.46
+[0.52360925]
+Files already downloaded and verified
+6900,1,0.358869,0,-0.409656,0.45
+[-0.18676008]
+Files already downloaded and verified
+6920,1,0.431317,0,-0.888874,0.47
+[0.52360925]
+Files already downloaded and verified
+6940,1,8.664333,1,7.618280,0.64
+[0.05631615]
+Files already downloaded and verified
+6960,1,3.636276,1,1.974306,0.45
+[0.11446585]
+Files already downloaded and verified
+6980,1,1.695190,1,0.435602,0.47
+[0.50317827]
+Files already downloaded and verified
+7000,0,-3.840389,0,-3.834335,0.46
+[0.00026194]
+Files already downloaded and verified
+7020,1,5.995171,1,6.017049,0.50
+[-0.00026194]
+Files already downloaded and verified
+7040,0,-3.653470,0,-6.148438,0.47
+[0.28839109]
+Files already downloaded and verified
+7060,1,10.744273,1,7.488571,0.45
+[0.52360925]
+Files already downloaded and verified
+7080,0,-1.854409,0,-3.262799,0.47
+[0.13489683]
+Files already downloaded and verified
+7100,0,-1.744726,0,-3.293740,0.46
+[0.0463626]
+Files already downloaded and verified
+7120,1,2.173882,1,0.328679,0.64
+[0.52256151]
+Files already downloaded and verified
+7140,1,4.023585,1,2.762029,0.45
+[0.06522196]
+Files already downloaded and verified
+7160,1,5.740138,1,5.114900,0.51
+[0.49008149]
+Files already downloaded and verified
+7180,1,5.150352,1,1.483315,0.48
+[0.05998325]
+Files already downloaded and verified
+7200,1,5.494517,1,3.468038,0.45
+[0.47331761]
+Files already downloaded and verified
+7220,1,1.911269,0,-0.117807,0.51
+[0.07779487]
+Files already downloaded and verified
+7240,1,5.414640,1,3.319984,0.46
+[0.31144142]
+Files already downloaded and verified
+7260,1,10.649620,1,8.063459,0.47
+[-0.52360925]
+Files already downloaded and verified
+7280,1,0.235762,0,-5.974807,0.45
+[-0.52203763]
+Files already downloaded and verified
+7300,1,1.684666,1,1.208111,0.45
+[0.10189295]
+Files already downloaded and verified
+7320,1,3.392155,1,1.459682,0.49
+[-0.48850988]
+Files already downloaded and verified
+7340,1,4.624279,1,1.735134,0.45
+[0.33292014]
+Files already downloaded and verified
+7360,0,-0.320974,0,-0.772939,0.47
+[-0.29520141]
+Files already downloaded and verified
+7380,1,5.835951,1,4.681682,0.46
+[0.05579228]
+Files already downloaded and verified
+7400,1,1.603821,1,0.528199,0.46
+[0.52360925]
+Files already downloaded and verified
+7420,0,-1.464931,0,-2.074745,0.46
+[0.28158076]
+Files already downloaded and verified
+7440,1,2.252277,1,2.265495,0.45
+[-0.00026194]
+Files already downloaded and verified
+7460,1,2.959381,1,1.755511,0.48
+[0.52360925]
+Files already downloaded and verified
+7480,1,8.686868,1,6.425102,0.46
+[-0.38897435]
+Files already downloaded and verified
+7500,1,5.519496,1,4.748339,0.54
+[-0.49636795]
+Files already downloaded and verified
+7520,1,1.536786,0,-0.086329,0.45
+[-0.33658724]
+Files already downloaded and verified
+7540,1,6.605737,1,6.452576,0.46
+[-0.37116273]
+Files already downloaded and verified
+7560,1,4.319333,1,2.742897,0.46
+[0.07884261]
+Files already downloaded and verified
+7580,1,7.366403,1,3.832665,0.57
+[-0.51679892]
+Files already downloaded and verified
+7600,0,-5.862603,0,-5.858032,0.46
+[-0.00026194]
+Files already downloaded and verified
+7620,1,0.690346,0,-0.736309,0.46
+[0.39892791]
+Files already downloaded and verified
+7640,1,0.737656,0,-1.721270,0.47
+[-0.08512907]
+Files already downloaded and verified
+7660,1,4.107083,1,2.086834,0.45
+[-0.21766848]
+Files already downloaded and verified
+7680,0,-2.465658,0,-4.662638,0.56
+[0.47855633]
+Files already downloaded and verified
+7700,1,6.866333,1,4.046642,0.45
+[-0.12127618]
+Files already downloaded and verified
+7720,1,3.528933,1,1.837723,0.48
+[-0.13227747]
+Files already downloaded and verified
+7740,1,4.799523,1,4.509339,0.46
+[0.05788777]
+Files already downloaded and verified
+7760,0,-1.325006,0,-1.847761,0.45
+[-0.23705171]
+Files already downloaded and verified
+7780,0,-0.203936,0,-1.449138,0.49
+[-0.36016144]
+Files already downloaded and verified
+7800,1,7.376041,1,4.161078,0.47
+[0.44869567]
+Files already downloaded and verified
+7820,1,3.148483,1,0.783671,0.45
+[0.48065181]
+Files already downloaded and verified
+7840,1,5.376634,1,4.884582,0.47
+[-0.07150842]
+Files already downloaded and verified
+7860,1,1.718704,1,0.693130,0.64
+[-0.1155136]
+Files already downloaded and verified
+7880,1,7.089083,1,4.032726,0.45
+[-0.19514202]
+Files already downloaded and verified
+7900,1,3.726184,1,0.916638,0.48
+[0.29048657]
+Files already downloaded and verified
+7920,1,7.198153,1,3.298324,0.46
+[0.52360925]
+Files already downloaded and verified
+7940,1,4.529585,1,2.977688,0.46
+[-0.38006854]
+Files already downloaded and verified
+7960,1,4.735060,1,3.327630,0.49
+[0.14223103]
+Files already downloaded and verified
+7980,1,4.811457,1,2.534793,0.47
+[0.52360925]
+Files already downloaded and verified
+8000,1,9.619097,1,8.628528,0.45
+[-0.45864922]
+Files already downloaded and verified
+8020,0,-2.817775,0,-5.643104,0.51
+[-0.3135369]
+Files already downloaded and verified
+8040,1,9.165721,1,7.670038,0.45
+[0.38478338]
+Files already downloaded and verified
+8060,1,4.825110,1,3.375556,0.47
+[0.07779487]
+Files already downloaded and verified
+8080,1,2.638720,1,0.245423,0.46
+[-0.52360925]
+Files already downloaded and verified
+8100,1,0.618600,0,-0.097920,0.58
+[0.04741034]
+Files already downloaded and verified
+8120,1,3.530100,1,2.595547,0.46
+[-0.45131502]
+Files already downloaded and verified
+8140,1,2.109342,1,0.934823,0.48
+[0.16213813]
+Files already downloaded and verified
+8160,1,1.570426,0,-0.545995,0.46
+[-0.11289424]
+Files already downloaded and verified
+8180,1,0.569600,0,-0.054279,0.56
+[0.03064646]
+Files already downloaded and verified
+8200,1,0.711809,1,0.716328,0.46
+[0.00026194]
+Files already downloaded and verified
+8220,1,3.275820,0,-1.918674,0.46
+[-0.50160666]
+Files already downloaded and verified
+8240,1,7.824962,1,6.676302,0.46
+[0.04531486]
+Files already downloaded and verified
+8260,1,5.546540,1,4.082752,0.55
+[0.04583873]
+Files already downloaded and verified
+8280,1,3.199581,0,-0.878023,0.45
+[0.52360925]
+Files already downloaded and verified
+8300,0,-0.241150,0,-1.094241,0.45
+[-0.06574583]
+Files already downloaded and verified
+8320,1,3.314750,1,0.850684,0.47
+[-0.11027488]
+Files already downloaded and verified
+8340,1,0.903902,0,-0.119092,0.48
+[0.08408132]
+Files already downloaded and verified
+8360,1,8.733621,1,5.634319,0.45
+[0.52360925]
+Files already downloaded and verified
+8380,1,3.328136,1,3.189881,0.47
+[-0.03012259]
+Files already downloaded and verified
+8400,1,5.392898,1,1.368681,0.46
+[-0.50108279]
+Files already downloaded and verified
+8420,0,-2.175183,0,-2.168270,0.62
+[0.00026194]
+Files already downloaded and verified
+8440,0,-1.072010,0,-2.398143,0.43
+[-0.47384149]
+Files already downloaded and verified
+8460,1,9.365456,1,9.263156,0.46
+[-0.41150081]
+Files already downloaded and verified
+8480,1,1.560014,1,0.184468,0.45
+[0.51627505]
+Files already downloaded and verified
+8500,1,6.804208,1,5.592693,0.56
+[0.08250971]
+Files already downloaded and verified
+8520,1,2.426620,0,-0.801373,0.47
+[-0.18780782]
+Files already downloaded and verified
+8540,1,5.578095,1,4.239320,0.46
+[0.52360925]
+Files already downloaded and verified
+8560,1,4.126819,1,3.622879,0.48
+[-0.05474454]
+Files already downloaded and verified
+8580,1,0.964125,1,0.669611,0.46
+[0.10556004]
+Files already downloaded and verified
+8600,1,2.532202,1,2.144636,0.62
+[-0.49427246]
+Files already downloaded and verified
+8620,1,0.634013,0,-1.100247,0.46
+[0.52360925]
+Files already downloaded and verified
+8640,1,6.867265,1,5.137942,0.45
+[-0.42564534]
+Files already downloaded and verified
+8660,1,0.213933,0,-0.384842,0.46
+[-0.11394198]
+Files already downloaded and verified
+8680,1,2.121224,1,1.844444,0.47
+[-0.4989873]
+Files already downloaded and verified
+8700,1,0.459476,1,0.383607,0.56
+[0.09508262]
+Files already downloaded and verified
+8720,0,-3.459957,0,-5.737181,0.45
+[0.49584407]
+Files already downloaded and verified
+8740,1,1.798917,0,-0.760672,0.47
+[-0.49008149]
+Files already downloaded and verified
+8760,1,7.307401,1,6.681449,0.46
+[-0.08303358]
+Files already downloaded and verified
+8780,1,1.367384,0,-1.186364,0.45
+[0.47698471]
+Files already downloaded and verified
+8800,1,3.054349,1,2.901759,0.53
+[-0.31615626]
+Files already downloaded and verified
+8820,1,2.802637,1,2.753647,0.45
+[0.07831874]
+Files already downloaded and verified
+8840,1,4.066123,1,0.412186,0.47
+[-0.52360925]
+Files already downloaded and verified
+8860,1,4.462519,1,2.632484,0.46
+[0.51679892]
+Files already downloaded and verified
+8880,1,12.319464,1,11.033345,0.67
+[-0.51941828]
+Files already downloaded and verified
+8900,1,1.361437,1,0.481416,0.49
+[0.09246326]
+Files already downloaded and verified
+8920,1,4.661613,1,1.723546,0.45
+[-0.0699368]
+Files already downloaded and verified
+8940,0,-2.875232,0,-5.526228,0.47
+[-0.28681947]
+Files already downloaded and verified
+8960,1,4.504627,1,3.647333,0.45
+[-0.45812535]
+Files already downloaded and verified
+8980,1,4.144085,1,0.583788,0.46
+[-0.05212518]
+Files already downloaded and verified
+9000,1,7.722645,1,5.268875,0.45
+[-0.29520141]
+Files already downloaded and verified
+9020,1,5.742857,1,5.696434,0.45
+[-0.00392903]
+Files already downloaded and verified
+9040,0,-1.110086,0,-1.937604,0.46
+[-0.52360925]
+Files already downloaded and verified
+9060,1,8.431341,1,5.668059,0.52
+[-0.22762203]
+Files already downloaded and verified
+9080,0,-1.660424,0,-2.665002,0.46
+[-0.35701821]
+Files already downloaded and verified
+9100,1,2.989485,0,-0.279114,0.46
+[0.09874972]
+Files already downloaded and verified
+9120,0,-0.200980,0,-0.864267,0.46
+[0.25486333]
+Files already downloaded and verified
+9140,1,0.837759,0,-0.341041,0.52
+[0.48065181]
+Files already downloaded and verified
+9160,1,0.613459,0,-0.603726,0.45
+[-0.28891496]
+Files already downloaded and verified
+9180,1,4.211851,1,3.244541,0.46
+[-0.49636795]
+Files already downloaded and verified
+9200,1,9.265944,1,8.479824,0.46
+[0.12389553]
+Files already downloaded and verified
+9220,1,6.143138,1,4.455126,0.46
+[-0.3753537]
+Files already downloaded and verified
+9240,1,4.540462,1,4.092383,0.55
+[0.37430596]
+Files already downloaded and verified
+9260,1,0.622001,0,-1.178963,0.47
+[0.52308538]
+Files already downloaded and verified
+9280,0,-4.005013,0,-4.021780,0.45
+[0.00916775]
+Files already downloaded and verified
+9300,1,0.813925,0,-0.129540,0.46
+[-0.52360925]
+Files already downloaded and verified
+9320,1,12.136343,1,8.014697,0.64
+[-0.5136557]
+Files already downloaded and verified
+9340,1,11.665885,1,10.815039,0.46
+[0.27057947]
+Files already downloaded and verified
+9360,1,0.191222,0,-0.628826,0.46
+[-0.49793956]
+Files already downloaded and verified
+9380,0,-0.247643,0,-1.912788,0.45
+[0.21609686]
+Files already downloaded and verified
+9400,1,4.799435,1,3.367862,0.46
+[-0.05422067]
+Files already downloaded and verified
+9420,1,8.044871,1,4.322764,0.56
+[0.52360925]
+Files already downloaded and verified
+9440,1,4.062443,1,2.487980,0.46
+[0.16790071]
+Files already downloaded and verified
+9460,1,3.333429,1,2.494317,0.47
+[0.21190589]
+Files already downloaded and verified
+9480,1,4.535650,1,3.236687,0.45
+[-0.40888146]
+Files already downloaded and verified
+9500,1,4.812538,1,1.150103,0.51
+[0.52360925]
+Files already downloaded and verified
+9520,1,3.654709,1,2.822017,0.45
+[0.03640905]
+Files already downloaded and verified
+9540,1,2.315199,1,0.813471,0.45
+[0.52360925]
+Files already downloaded and verified
+9560,0,-3.033593,0,-3.020507,0.46
+[-0.00026194]
+Files already downloaded and verified
+9580,1,12.253305,1,10.347861,0.47
+[0.35963757]
+Files already downloaded and verified
+9600,1,9.199347,1,7.503401,0.54
+[0.40154726]
+Files already downloaded and verified
+9620,1,1.281395,0,-0.606308,0.47
+[0.27843753]
+Files already downloaded and verified
+9640,1,4.659276,1,3.939137,0.48
+[0.43297953]
+Files already downloaded and verified
+9660,1,5.224828,1,1.715830,0.45
+[0.4445047]
+Files already downloaded and verified
+9680,1,5.697378,1,4.061817,0.51
+[0.35439886]
+Files already downloaded and verified
+9700,1,9.225586,1,7.015393,0.45
+[-0.16370974]
+Files already downloaded and verified
+9720,1,1.942882,1,1.014508,0.44
+[-0.30096399]
+Files already downloaded and verified
+9740,0,-4.104605,0,-4.086393,0.46
+[-0.00026194]
+Files already downloaded and verified
+9760,1,3.533032,1,1.952971,0.44
+[-0.06155486]
+Files already downloaded and verified
+9780,0,-0.152236,0,-0.139118,0.44
+[0.00026194]
+Files already downloaded and verified
+9800,1,11.567940,1,9.840070,0.45
+[0.52360925]
+Files already downloaded and verified
+9820,1,0.370284,0,-3.442441,0.44
+[0.05893551]
+Files already downloaded and verified
+9840,0,-5.559336,0,-5.551518,0.44
+[0.00026194]
+Files already downloaded and verified
+9860,1,0.865161,0,-1.221141,0.46
+[-0.48431891]
+Files already downloaded and verified
+9880,1,4.761579,0,-0.393603,0.46
+[-0.52360925]
+Files already downloaded and verified
+9900,1,3.609805,1,3.619015,0.46
+[0.00026194]
+Files already downloaded and verified
+9920,1,3.563720,1,2.278686,0.44
+[0.17785427]
+Files already downloaded and verified
+9940,0,-1.006837,0,-2.094489,0.44
+[-0.12389553]
+Files already downloaded and verified
+9960,0,-4.455357,0,-5.211299,0.43
+[-0.52360925]
+Files already downloaded and verified
+9980,1,6.489158,1,5.617962,0.44
+[0.19933299]
