@@ -21,6 +21,7 @@ GeoRobust is composed of four components:
 Our method is developed with Python==3.8, pytorch==1.11.0, and torchvision==0.12.0. 
 To load pretrained ImagreNet classifiers, we used [TIMM](https://github.com/rwightman/pytorch-image-models)==0.5.4. 
 Autograd==1.3 is required to run the small demo provided with the algorithm for result checking.
+onnx==1.11.0 and onnx2torch==1.4.1 are used in `cifar_utils.py` to load models.
 
 ## How to use
 

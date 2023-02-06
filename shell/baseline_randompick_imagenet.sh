@@ -18,13 +18,13 @@ for model in $model_list; do
     nb_pick='2000'
     while IFS= read -r line
     do
-        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --angle $ag  --model-name $model --random-pick --pick-size $nb_pick  --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
+        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --angle $ag  --model-name $model --random-pick --pick-size $nb_pick --grid $nb_grid --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
     done < "$input"
 
     ouput=${ouput_dir}${model}"_sc.txt"
     while IFS= read -r line
     do
-        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --scale $sc  --model-name $model --random-pick --pick-size $nb_pick  --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
+        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --scale $sc  --model-name $model --random-pick --pick-size $nb_pick --grid $nb_grid --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
     done < "$input"
 
 # 2-D
@@ -32,13 +32,13 @@ for model in $model_list; do
     nb_pick='4000'
     while IFS= read -r line
     do
-        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --shift $sft  --model-name $model --random-pick --pick-size $nb_pick  --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
+        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --shift $sft  --model-name $model --random-pick --pick-size $nb_pick --grid $nb_grid --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
     done < "$input"
 
     ouput=${ouput_dir}${model}"_ag_sc.txt"
     while IFS= read -r line
     do
-        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --angle $ag --scale $sc  --model-name $model --random-pick --pick-size $nb_pick  --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
+        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --angle $ag --scale $sc  --model-name $model --random-pick --pick-size $nb_pick --grid $nb_grid --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
     done < "$input"
 
 # 3-D
@@ -46,13 +46,13 @@ for model in $model_list; do
     nb_pick='6000'
     while IFS= read -r line
     do
-        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --angle $ag --shift $sft  --model-name $model --random-pick --pick-size $nb_pick  --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
+        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --angle $ag --shift $sft  --model-name $model --random-pick --pick-size $nb_pick --grid $nb_grid --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
     done < "$input"
 
     ouput=${ouput_dir}${model}"_sft_sc.txt"
     while IFS= read -r line
     do
-        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --shift $sft --scale $sc  --model-name $model --random-pick --pick-size $nb_pick  --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
+        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --shift $sft --scale $sc  --model-name $model --random-pick --pick-size $nb_pick --grid $nb_grid --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
     done < "$input"
 
 # 4-D
@@ -60,6 +60,6 @@ for model in $model_list; do
     nb_pick='8000'
     while IFS= read -r line
     do
-        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --angle $ag --shift $sft --scale $sc  --model-name $model --random-pick --pick-size $nb_pick  --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
+        CUDA_VISIBLE_DEVICES=$cuda python gridsearch_randompick.py --example-idx $line --angle $ag --shift $sft --scale $sc  --model-name $model --random-pick --pick-size $nb_pick --grid $nb_grid --batch-size $batch_size --imagenet --data-dir $dataset_dir >> $ouput 
     done < "$input"
 done
