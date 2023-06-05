@@ -58,7 +58,7 @@ def make_theta(transf, arr):
             aff_beta = np.sin(arr[transf.index('angle')])
     else:
         aff_alpha = 1.
-        aff_beta = 1.
+        aff_beta = 0.
     if 'v_shift' in transf:
         x_shift = arr[transf.index('h_shift')]
         y_shift = arr[transf.index('v_shift')]
