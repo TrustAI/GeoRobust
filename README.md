@@ -38,6 +38,8 @@ sh shell/ours_georobust_imagenet.sh
 ```
 For comparison reported in Table 1, please check `shell/tss_cifar.sh` and `shell/tss_mnist.sh`.
 
+A user manuel can be found here [link](https://github.com/TrustAI/GeoRobust/blob/main/manual.md)
+
 ## Citation
 ```
 @misc{WangXRH23,
