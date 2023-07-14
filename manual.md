@@ -3,9 +3,11 @@
 
 ## A Demonstration of Using the Global Optimisation Solver
 Taking Beale's function as an example, we provide a simple demonstration to validate the correctness of the global optimisation solver that we developed within GeoRobust. The objective function is expressed as:
-$$
+
+$
 f(x,y) = (1.5 - x+xy)^2 + (2.25-x+xy^2)^2 + (2.625 - x +xy^3)^2,
-$$
+$
+
 where the domain is $-4.5\leq x,y\leq4.5$, and the known minimum value is $f(3,0.5)=0$.
 Such a problem can be formulated as the following function:
 ```python
