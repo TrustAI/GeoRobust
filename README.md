@@ -1,4 +1,4 @@
-# GeoRobust: Towards Verifying the Geometric Robustness of Large-scale Neural Networks (AAAI 2023)
+# [GeoRobust: Towards Verifying the Geometric Robustness of Large-scale Neural Networks (AAAI 2023)](https://arxiv.org/abs/2301.12456)
 
 ## Abstract
 Deep neural networks (DNNs) are known to be vulnerable to adversarial geometric transformation. This paper aims to verify the robustness of large-scale DNNs against the combination of multiple geometric transformations with a provable guarantee. Given a set of transformations (e.g., rotation, scaling, etc.), we develop GeoRobust, a black-box robustness analyser built upon a novel branch-and-bound search strategy, for determining the worst-case combination of transformations that affect and even alter a network’s output. GeoRobust can provide provable guarantees on finding the worst-case combination based on recent advances in Lipschitzian theory. Due to its black-box nature, GeoRobust can be deployed on large-scale DNNs regardless of their architectures, activation functions, and the number of neurons. Furthermore, with the proposed parallelisation strategy, on average, GeoRobust takes only 10 seconds to locate the worst-case geometric transformation for ResNet model on ImageNet. We systematically examine 18 ImageNet classifiers, including ResNet family and vision transformers. Our experiments reveal a positive correlation between the geometric robustness of the networks and the parameter numbers. We also observe that increasing the depth of DNN is more beneficial than increasing its width in terms of improving its geometric robustness.
@@ -24,8 +24,9 @@ Autograd==1.3 is required to run the small demo provided with the algorithm for 
 onnx==1.11.0 and onnx2torch==1.4.1 are used in `cifar_utils.py` to load models.
 
 ## How to use
+A user manuel can be found here [[link]](https://github.com/TrustAI/GeoRobust/blob/main/manual.md)
 
-We provide some shell scripts to reimplement the experiments in our paper. Please check and update the path variables in these scripts before using them.
+We also provide some shell scripts to reimplement the experiments in our paper. Please check and update the path variables in these scripts before using them.
 
 ```bash
 # Benchmark on ImageNet classifiers shown in Table 3, run
@@ -38,15 +39,17 @@ sh shell/ours_georobust_imagenet.sh
 ```
 For comparison reported in Table 1, please check `shell/tss_cifar.sh` and `shell/tss_mnist.sh`.
 
-A user manuel can be found here [link](https://github.com/TrustAI/GeoRobust/blob/main/manual.md)
+
 
 ## Citation
+If you find our implementation helpful, please consider to cite our paper in your work. Thanks.
+
 ```
-@misc{WangXRH23,
-  author = {Wang, Fu and Xu, Peipei and Ruan, Wenjie and Huang, Xiaowei},
-  title = {Towards Verifying the Geometric Robustness of Large-scale Neural Networks},
-  url = {https://arxiv.org/abs/2301.12456},
-  year = {2023},
+@inproceedings{WangXRH23,
+  title={Towards Verifying the Geometric Robustness of Large-scale Neural Networks},
+  author={Wang, Fu and Xu, Peipei and Ruan, Wenjie and Huang, Xiaowei},
+  booktitle={AAAI},
+  year={2023}
 }
 ```
 
